@@ -1,10 +1,11 @@
 ## Hi there 👋
+# Halo semua! 
 
-<!--
-**GHedi/GHedi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Perkenalkan nama saya **Edison**.<br>
 
-Here are some ideas to get you started:
+Saya seorang **Mahasiswa** di Universitas Universal Batam!.<br>
 
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/gilang-adhan/)ku ya.
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -13,4 +14,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
