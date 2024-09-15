@@ -5,7 +5,7 @@ Perkenalkan nama saya **Edison**.<br>
 
 Saya seorang **Mahasiswa** di Universitas Universal Batam!.<br>
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/gilang-adhan/)ku ya.
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/edisonedi/)ku ya.
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -17,7 +17,7 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](http
 
 
 <p align="left">
-<a href="https://github.com/penuliscode">
+<a href="https://github.com/GHedi">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=GHedi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GHedi&layout=compact&theme=algolia"/>
 </a>
