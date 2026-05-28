@@ -1,35 +1,36 @@
-## Hi there 👋
-# Halo semua! 
+## Hi there 👋 I'm Edison!
 
-Perkenalkan nama saya **Edison**.<br>
+I am a highly motivated final-year Software Engineering student at Universitas Universal, Batam, passionate about converting complex logical computational structures into clean, efficient, and user-centric digital solutions. 
 
-Saya seorang **Mahasiswa** di Universitas Universal Batam!.<br>
+I have been recognized as the Highest Academic Achiever in my cohort for 3 consecutive periods, maintaining a solid **GPA of 3.96/4.00**.
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/edisonedi/)ku ya.
-- 🔭 I’m currently working on: 
-  Menyelesaikan proyek tugas akhir/skripsi saya bernama **DrinkGrade**—sebuah aplikasi web pintar berbasis Laravel 12 dan MySQL untuk melacak konsumsi gula harian secara personal dan dinamis.
+- 🔭 **I’m currently working on:** 
+  Finalizing and polishing my undergraduate thesis project named **DrinkGrade** — a smart beverage sugar-tracking web application built with the Laravel 12 ecosystem and MySQL, featuring a dynamic baseline algorithm integrated with users' BMI, activity levels, and medical history.
 
-- 🌱 I’m currently learning: 
-  Arsitektur backend tingkat lanjut pada ekosistem Laravel 12, optimasi query basis data relasional, serta best practices dalam rekayasa perangkat lunak.
+- 🌱 **I’m currently learning:** 
+  Advanced backend architecture within the Laravel 12 framework, relational database design optimizations, RESTful API scaling, and agile software development best practices.
 
-- 👯 I’m looking to collaborate on: 
-  Proyek pengembangan aplikasi web berbasis open-source (PHP/Laravel) maupun aplikasi mobile (Android/Kotlin) yang berfokus pada solusi pemecahan masalah riil masyarakat.
+- 👯 **I’m looking to collaborate on:** 
+  Open-source web projects (PHP/Laravel) or mobile software engineering (Android/Kotlin) aimed at solving real-world modern challenges and delivering meaningful community impact.
 
-- 🤔 I’m looking for help with: 
-  Metodologi deployment aplikasi skala produksi dan teknik advanced tuning untuk performa database MySQL.
+- 🤔 **I’m looking for help with:** 
+  Production-scale deployment methodologies, cloud hosting integrations, and advanced database query tuning techniques for highly efficient MySQL environments.
 
-- 💬 Ask me about: 
-  Dasar-dasar pemrograman Android dengan Kotlin, pengembangan web menggunakan Laravel, perancangan database relasional, atau pengalaman tim kami saat meraih posisi Top 50 Capstone Project di Bangkit Academy melalui aplikasi "Belens".
+- 💬 **Ask me about:** 
+  Object-Oriented Programming (OOP) fundamentals, native Android development with Kotlin/Java, full-stack web development with Laravel, or our national team achievement securing a **Top 50 Capstone Project** rank out of 600+ teams at Bangkit Academy (Google, GoTo, Traveloka) with our image-recognition app, **Belens**.
 
-- 📫 How to reach me: 
-  Kamu bisa menghubungi saya secara profesional melalui email di edsn197@gmail.com atau melalui pesan langsung di LinkedIn.
+- 📫 **How to reach me:** 
+  You can contact me professionally via email at edsn197@gmail.com or connect through direct messages on [LinkedIn](https://www.linkedin.com/in/edisonedi/).
 
-- 😄 Pronouns: 
+- 😄 **Pronouns:** 
   He / Him
 
-- ⚡ Fun fact: 
-  Saya bisa betah berjam-jam menganalisis dan merapikan struktur skema relational database, tetapi konsumsi gula harian saya sendiri dijaga ketat oleh kalkulator algoritma buatan saya!
+- ⚡ **Fun fact:** 
+  I can spend hours analyzing and optimizing complex relational database schemas, yet my own daily sugar intake is strictly monitored by a dynamic health algorithm I built myself!
 
+---
+
+### 📊 GitHub Stats & Technologies
 
 <p align="left">
 <a href="https://github.com/GHedi">
